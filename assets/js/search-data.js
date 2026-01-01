@@ -462,6 +462,13 @@ ninja.data = [{
           window.open("mailto:%7A%7A%33%33%36%37@%63%6F%6C%75%6D%62%69%61.%65%64%75", "_blank");
         },
       },{
+        id: 'social-linkedin',
+        title: 'LinkedIn',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.linkedin.com/in/zikun-z", "_blank");
+        },
+      },{
         id: 'social-x',
         title: 'X',
         section: 'Socials',
