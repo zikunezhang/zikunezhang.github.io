@@ -117,6 +117,13 @@ ninja.data = [{
           window.open("https://www.linkedin.com/in/zikun-z", "_blank");
         },
       },{
+        id: 'social-scholar',
+        title: 'Google Scholar',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://scholar.google.com/citations?user=VZd_JqkAAAAJ&hl=en", "_blank");
+        },
+      },{
         id: 'social-x',
         title: 'X',
         section: 'Socials',
