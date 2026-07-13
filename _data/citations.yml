@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-26'
+  last_updated: '2026-07-13'
 papers:
   VZd_JqkAAAAJ:2osOgNQ5qMEC:
     citations: 0
@@ -10,6 +10,6 @@ papers:
     title: Tweedie's Formulae and Diffusion Generative Models Beyond Gaussian
     year: '2026'
   VZd_JqkAAAAJ:u5HHmVD_uO8C:
-    citations: 16
+    citations: 17
     title: 'Convergence of Score-Based Discrete Diffusion Models: A Discrete-Time Analysis'
     year: '2025'
