@@ -52,6 +52,13 @@
       "releaseDate": "2025-01",
       "url": "https://openreview.net/pdf?id=pq1WUegkza",
       "summary": "A theoretical analysis of discrete diffusion models"
+    },
+        {
+      "name": "MNL-Bandit with Fairness Constraints",
+      "publisher": "INFORMS Journal on Computing",
+      "releaseDate": "2026-06",
+      "url": "https://pubsonline.informs.org/doi/abs/10.1287/ijoc.2025.1364",
+      "summary": "A variant of online assortment optimization under MNL-Bandit feedback"
     }
   ],
   "interests": [
