@@ -36,4 +36,4 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 I am a first-year PhD student at [Department of Industrial Engineering and Operations Research](https://ieor.columbia.edu), Columbia University. I am working with Prof. [Wenpin Tang](https://www.columbia.edu/~wt2319). Previously, I received a B.S. degree in Mathematics and Applied Mathematics at Fudan University in 2025.
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder. -->
 
-My current research interests lie in the methodological and algorithmic foundations of generative modeling. I aim to leverage probability tools to advance diffusion-based generative models.
+My current research interests lie in the methodological and algorithmic foundations of generative modeling. I aim to leverage probability tools to advance diffusion-based generative models in both inference and post-training.
